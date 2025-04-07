@@ -56,6 +56,6 @@ if (n != 1 && n != 2 && n != 3 && n != 4)
     cout << "Bruh" << endl;
     exit(0);
 }
-return 0;
+system("pause");
     return 0;
 }
